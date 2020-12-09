@@ -14,8 +14,8 @@ I am Nas and I am Principal Software Engineer at [Waters Corporation](https://ww
 - ⚡ Fun fact: ...
 -->
 
-Here are my GitHub [stats](https://github-readme-stats.vercel.app/api?username=NasAmin&show_icons=true&count_private=true):
+Here are my GitHub [stats](https://github-readme-stats.vercel.app/api?username=NasAmin&show_icons=true&count_private=true&theme=vue):
 
-![Nasir's github stats](https://github-readme-stats.vercel.app/api?username=NasAmin&show_icons=true&count_private=true)
+![Nasir's github stats](https://github-readme-stats.vercel.app/api?username=NasAmin&show_icons=true&count_private=true&theme=vue)
 
 Source: [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
