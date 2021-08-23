@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I am Nas and I am Principal Software Engineer at [Waters Corporation](https://www.waters.com).
+I am Nas and I am a Senior SRE at [Snyk](https://snyk.io).
 
-Currently working as a Site Reliability Engineer (SRE) for our microservices based cloud platform on AWS
 
 <!--
 **NasAmin/NasAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
